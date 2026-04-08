@@ -13,5 +13,30 @@
 ## Description:
 This repository contains projects developed during the Oasis Infobyte Internship. These projects demonstrate Python programming, GUI development, and basic application logic.
 
+
+# 💪 BMI Calculator (Python)
+
+A simple GUI-based BMI calculator using Python and Tkinter.
+
+## 🚀 Features
+
+* Calculate BMI instantly
+* Health category detection
+* Clean dark UI
+
+## ▶️ Run
+
+```
+python bmi.py
+```
+
+## 📊 Categories
+
+* Underweight
+* Normal
+* Overweight
+* Obese
+
+
 ## Author:
 Medha Roy Gupta
