@@ -1,9 +1,13 @@
 # Oasis Infobyte Internship Projects
 
+
+
 ## Tasks Completed:
-1. Voice Assistant (Python)
+1. Weather App (Python)
 2. BMI Calculator (Python + GUI)
-3. Chat Application (Python)
+3. Chat Application (Python + GUI)
+ ## Output of the Tasks Completed:
+3. <img width="1293" height="929" alt="Screenshot 2026-04-08 chat output png" src="https://github.com/user-attachments/assets/e9e65f07-e6fb-4407-b5fd-6c5f2a21c619" />
 
 ## Description:
 This repository contains projects developed during the Oasis Infobyte Internship. These projects demonstrate Python programming, GUI development, and basic application logic.
